@@ -8,4 +8,4 @@ In this project I have been practising Programmatic UIKit in UITableView.
 - Core Graphics
 - UITableView
 - Custom UITableViewCell
-- etc
+- etc..
